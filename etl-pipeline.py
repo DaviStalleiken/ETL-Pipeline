@@ -19,7 +19,7 @@ print(json.dumps(users, indent=2))
 
 #Transform
 
-openai_api_key = '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'
+openai_api_key = 'XXXX-XXXX-XXXX-XXXX'
 
 import openai
 
